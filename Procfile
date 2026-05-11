@@ -1,0 +1,1 @@
+web: python manage.py migrate && gunicorn liya.wsgi --log-file -

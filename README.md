@@ -1,14 +1,12 @@
 # LiYa
 
-Современный self-hosted publishing platform, вдохновлённый Telegra.ph.
+Instant anonymous publishing platform inspired by Telegra.ph
 
-Форк [TapNote](https://github.com/vorniches/tapnote).
+## Features
+- Markdown editor
+- Instant publishing
+- Clean reading view
+- Russian & English interface
 
-## Быстрый старт
-
-```bash
-git clone https://github.com/Serega40in/liya.git
-cd liya
-chmod +x setup.sh
-./setup.sh
-```
+## Deploy
+See README for Render deployment
